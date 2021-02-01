@@ -1,0 +1,13 @@
+package com.huazai.taodi.product;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class TaodiProductApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
