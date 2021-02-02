@@ -14,6 +14,6 @@
         <module>taodi-coupon</module>
         <module>taodi-ware</module>
         <module>taodi-order</module>
-        <module>renren-fast</module>
+        <module>taodi-fast</module>
     </modules>
 </project>
