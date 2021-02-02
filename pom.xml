@@ -15,5 +15,6 @@
         <module>taodi-ware</module>
         <module>taodi-order</module>
         <module>taodi-fast</module>
+        <module>taodi-generator</module>
     </modules>
 </project>
